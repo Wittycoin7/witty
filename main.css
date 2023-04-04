@@ -1,0 +1,84 @@
+header,
+main,
+section {
+    opacity: 1;
+    visibility: visible
+}
+
+.main-section {
+    padding-bottom: 1.04rem;
+    padding-top: 1.2rem
+}
+
+.main-section .background .bg-ellipse1 {
+    height: 16.64rem;
+    left: -.1rem;
+    position: absolute;
+    top: -3rem;
+    width: 7.1rem;
+    z-index: -2
+}
+
+.main-section .background .bg-ellipse1 img {
+    height: 100%;
+    width: 100%
+}
+
+.main-section .background .bg-ellipse2 {
+    height: 12.98rem;
+    position: absolute;
+    right: -.1rem;
+    top: -3.9rem;
+    width: 7.9rem;
+    z-index: -2
+}
+
+.main-section .background .bg-ellipse2 img {
+    height: 100%;
+    width: 100%
+}
+
+.main-section .container {
+    min-width: var(--container-width-small);
+    width: var(--container-width-small)
+}
+
+.main-section .container section {
+    margin-bottom: .72rem
+}
+
+.main-section .container .title-h2 {
+    margin-bottom: 1.04rem;
+    text-align: left
+}
+
+.main-section .container .title-h4 {
+    padding-bottom: .24rem
+}
+
+.main-section .container .subtitle-1 {
+    padding-bottom: .08rem
+}
+
+.main-section .container .desc-3 {
+    color: var(--color-gray)
+}
+
+.main-section .container .list-item {
+    margin-bottom: .24rem
+}
+
+.main-section .container ul {
+    list-style: disc;
+    margin-left: .16rem
+}
+
+.main-section .container strong {
+    color: var(--color-white);
+    font-weight: var(--font-weight-6)
+}
+
+.main-section .container .underlined {
+    border-bottom: 1px solid var(--color-underline);
+    margin-bottom: .16rem
+}
