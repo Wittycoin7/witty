@@ -84,7 +84,7 @@ section {
 }
 
 
-.social-section > img {
+.social-section img {
     transition: animation 1s ease-in-out;
     animation-name: bounce;
     -webkit-animation-duration: 1s;
