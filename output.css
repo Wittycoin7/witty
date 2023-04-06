@@ -952,6 +952,24 @@ video {
   background-color: rgb(254 240 138 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#4\] {
+  background-color: #4;
+}
+
+.bg-\[\#\] {
+  background-color: #;
+}
+
+.bg-\[\#1d7874\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(29 120 116 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#071e22\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(7 30 34 / var(--tw-bg-opacity));
+}
+
 .fill-current {
   fill: currentColor;
 }
