@@ -752,6 +752,10 @@ video {
   height: 50px;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .max-h-full {
   max-height: 100%;
 }
@@ -794,6 +798,10 @@ video {
 
 .w-\[50px\] {
   width: 50px;
+}
+
+.w-32 {
+  width: 8rem;
 }
 
 .max-w-sm {
@@ -1118,6 +1126,11 @@ video {
 
 .text-\[13px\] {
   font-size: 13px;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 
 .font-bold {
